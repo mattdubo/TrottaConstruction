@@ -156,7 +156,7 @@
     min-height: 640px;
     display: flex;
     align-items: flex-end;
-    background: #000 url('images/hero.jpg') center 30%/cover no-repeat;
+    background: #000 url('hero.jpg') center 30%/cover no-repeat;
   }
   .hero::before {
     content: '';
