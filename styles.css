@@ -249,7 +249,7 @@
   #services .section-head p { color: var(--on-dark-soft); }
   #services .eyebrow { color: var(--amber); }
   #services .section-head h2 { color: #fff; }
-  .service-cols { display: grid; grid-template-columns: 1fr 1fr; border-top: 2px solid var(--line-dark); }
+  .service-cols { display: grid; grid-template-columns: 1fr 1fr; }
   .service-col { padding: 34px 40px; border-left: 4px solid var(--rust); }
   .service-col:first-child { border-right: 2px solid var(--line-dark); }
   .service-col h3 { color: #fff; font-size: 22px; margin-bottom: 6px; }
